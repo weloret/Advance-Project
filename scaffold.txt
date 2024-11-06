@@ -1,0 +1,8 @@
+Form + class lib:
+Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProjectDB;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -Tables Comment, Document, Log, Notification, Project, ProjectMember, Task, User -Context "TaskCentralDBContext" -DataAnnotations -Force
+
+Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=aspDB;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Identity -Context "IdentityContext" -DataAnnotations -Force
+
+
+ASP.NET:
+Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProjectDB;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -Tables Comment, Document, Log, Notification, Project, ProjectMember, Task, User -Context "TaskCentralDBContext" -OutputDir Models -DataAnnotations -Force

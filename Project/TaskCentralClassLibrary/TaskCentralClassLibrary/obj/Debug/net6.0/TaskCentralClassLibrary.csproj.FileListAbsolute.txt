@@ -1,0 +1,42 @@
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.deps.json
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.runtimeconfig.json
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.pdb
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.AssemblyInfo.cs
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\refint\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.pdb
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.genruntimeconfig.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\ref\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.deps.json
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.runtimeconfig.json
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.pdb
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.AssemblyInfo.cs
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\refint\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.pdb
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.genruntimeconfig.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\ref\TaskCentralClassLibrary.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.deps.json
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.runtimeconfig.json
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\bin\Debug\net6.0\TaskCentralClassLibrary.pdb
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.csproj.AssemblyReference.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.AssemblyInfoInputs.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.AssemblyInfo.cs
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\refint\TaskCentralClassLibrary.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.pdb
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\TaskCentralClassLibrary.genruntimeconfig.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralClassLibrary\TaskCentralClassLibrary\obj\Debug\net6.0\ref\TaskCentralClassLibrary.dll

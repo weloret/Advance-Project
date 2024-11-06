@@ -1,0 +1,94 @@
+﻿@model TaskCentralWebApp.ViewModels.CommentsViewModel
+@using Microsoft.AspNetCore.Authentication
+@using System.Security.Claims
+
+@{
+    var aspId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+    TaskCentralDBContext context = new TaskCentralDBContext();
+    // Retrieve the corresponding user from your database context
+    var userId = context.Users.FirstOrDefault(x => x.AspUserId == aspId).UserId;
+}
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    table {
+        min-width: 1600px;
+    }
+</style>
+<div class="row">
+    <div class="col-md-12">
+        <h1>Comments</h1>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a asp-action="Create" asp-route-taskid="@Model.Task.TaskId"><button type="button" class="btn btn-success">Add Comment</button></a>
+            </li>
+        </ul>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a asp-controller="Tasks" asp-action="Index" asp-route-projectid="@Model.Task.ProjectId"><button type="button" class="btn btn-outline-primary">Back to Tasks</button></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row mt-4">
+    <div class="col-md-12">
+        <h2>Task: @Model.Task.TaskName</h2>
+        <h4>Assigned to: @Model.Task.User.UserName</h4>
+    </div>
+</div>
+
+@{
+    if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Success"].ToString()
+        </div>
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Comments.FirstOrDefault().Text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comments.FirstOrDefault().DateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Task)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comments.FirstOrDefault().User.UserName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Comments) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Task.TaskId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                    @if (userId == item.UserId)
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.CommentId"><button type="button" class="btn btn-danger">Delete</button></a>
+                        <a asp-action="Edit" asp-route-id="@item.CommentId"><button type="button" class="btn btn-info">Edit</button></a>
+                    }
+                    <a asp-action="Details" asp-route-id="@item.CommentId"><button type="button" class="btn btn-warning">Details</button></a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

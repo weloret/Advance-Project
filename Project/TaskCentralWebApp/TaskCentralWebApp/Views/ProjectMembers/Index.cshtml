@@ -1,0 +1,72 @@
+﻿@model TaskCentralWebApp.ViewModels.ProjectMembersIndexViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    table {
+        min-width: 600px;
+    }
+</style>
+<div class="row">
+    <div class="col-md-12">
+        <h1>Project Members</h1>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a asp-action="Create" asp-route-projectid="@Model.Project.ProjectId"><button type="button" class="btn btn-success">Add Member</button></a>
+            </li>
+        </ul>
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a asp-controller="Projects" asp-action="Dashboard" asp-route-id="@Model.Project.ProjectId"><button type="button" class="btn btn-outline-primary">Back to Project Dashboard</button></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row mt-4">
+    <div class="col-md-12">
+        <h2>Project: @Model.Project.ProjectName</h2>
+        <h4>Project Manager: @Model.Project.Manager.UserName</h4>
+        <h4>Description:</h4>
+        <p>@Model.Project.Description</p>
+    </div>
+</div>
+
+@{
+    if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Success"].ToString()
+        </div>
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Project.ProjectName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectMembers.FirstOrDefault().User.UserName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.ProjectMembers) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Project.ProjectName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                    <a href="@Url.Action("Details", new { projectid = item.ProjectId, userid = item.UserId })" class="btn btn-warning">Details</a>
+                    <a href="@Url.Action("Delete", new { projectid = item.ProjectId, userid = item.UserId })" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

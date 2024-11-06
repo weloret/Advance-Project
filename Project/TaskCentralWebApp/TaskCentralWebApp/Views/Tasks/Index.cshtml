@@ -1,0 +1,118 @@
+﻿@model TaskCentralWebApp.ViewModels.TasksViewModel
+@using Microsoft.AspNetCore.Authentication
+@using System.Security.Claims
+
+@{
+    var aspId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+    TaskCentralDBContext context = new TaskCentralDBContext();
+    // Retrieve the corresponding user from your database context
+    var userId = context.Users.FirstOrDefault(x => x.AspUserId == aspId).UserId;
+}
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    table {
+        min-width: 1550px;
+    }
+</style>
+<div class="row">
+    <div class="col-md-12">
+        <h1>Tasks</h1>
+        @if (userId == Model.Project.ManagerId)
+        {
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <a asp-action="Create" asp-route-projectid="@Model.Project.ProjectId"><button type="button" class="btn btn-success">Add Task</button></a>
+                </li>
+            </ul>
+        }
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a asp-controller="Projects" asp-action="Dashboard" asp-route-id="@Model.Project.ProjectId"><button type="button" class="btn btn-outline-primary">Back to Project Dashboard</button></a>
+            </li>
+        </ul>
+        
+    </div>
+</div>
+<div class="row mt-4">
+    <div class="col-md-12">
+        <h2>Project: @Model.Project.ProjectName</h2>
+        <h4>Project Manager: @Model.Project.Manager.UserName</h4>
+        <h4>Description:</h4>
+        <p>@Model.Project.Description</p>
+    </div>
+</div>
+@{
+    if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Success"].ToString()
+        </div>
+    }
+}
+<form asp-controller="Tasks" asp-action="Index" method="GET">
+    <input type="text" name="searchString" value="@Context.Request.Query["searchString"].ToString()" />
+    <input type="submit" value="Search" class="btn btn-secondary mx-2" />
+    <a asp-controller="Tasks" asp-action="Index" class="btn btn-outline-danger">Clear</a>
+    </form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tasks.FirstOrDefault().TaskName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tasks.FirstOrDefault().Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tasks.FirstOrDefault().Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tasks.FirstOrDefault().Deadline)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Project)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tasks.FirstOrDefault().User.UserName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Tasks) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaskName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deadline)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Project.ProjectId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.TaskId"><button type="button" class="btn btn-info">Edit</button></a>
+                    <a asp-action="Details" asp-route-id="@item.TaskId"><button type="button" class="btn btn-warning">Details</button></a>
+                    @if (userId == Model.Project.ManagerId)
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.TaskId"><button type="button" class="btn btn-danger">Delete</button></a>
+                    }
+                    <a asp-controller="Comments" asp-action="Index" asp-route-taskid="@item.TaskId"><button type="button" class="btn btn-dark">Comments</button></a>
+                    <a asp-controller="Documents" asp-action="Index" asp-route-taskid="@item.TaskId"><button type="button" class="btn btn-dark">Documents</button></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

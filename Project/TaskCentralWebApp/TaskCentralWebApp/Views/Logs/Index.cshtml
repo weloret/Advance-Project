@@ -1,0 +1,97 @@
+﻿@using TaskCentralWebApp.ViewModels;
+@model IEnumerable<LogViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Logs / Audit Trails</h1>
+
+<style>
+    .truncate {
+        max-width: 150px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    table{
+        min-width: 1396px;
+    }
+</style>
+@{
+    if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Success"].ToString()
+        </div>
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Source)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Message)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OriginalValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CurrentValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="truncate" title="@item.Source">
+                    @Html.DisplayFor(modelItem => item.Source)
+                </td>
+                <td class="truncate" title="@item.Type">
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td class="truncate" title="@item.DateTime">
+                    @Html.DisplayFor(modelItem => item.DateTime)
+                </td>
+                <td class="truncate" title="@item.Message">
+                    @Html.DisplayFor(modelItem => item.Message)
+                </td>
+                <td class="truncate" title="@item.OriginalValue">
+                    @Html.DisplayFor(modelItem => item.OriginalValue)
+                </td>
+                <td class="truncate" title="@item.CurrentValue">
+                    @Html.DisplayFor(modelItem => item.CurrentValue)
+                </td>
+                <td class="truncate" title="@item.UserName">
+                    @if (item.UserName != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    }
+                    else
+                    {
+                        <span>User was not Logged in</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.LogId"><button type="button" class="btn btn-warning">Details</button></a> 
+                    <a asp-action="Delete" asp-route-id="@item.LogId"><button type="button" class="btn btn-danger">Delete</button></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

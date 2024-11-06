@@ -1,0 +1,248 @@
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.exe
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.deps.json
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.runtimeconfig.json
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.pdb
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralClassLibrary.pdb
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.AssemblyReference.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.Form1.resources
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.GenerateResource.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.AssemblyInfoInputs.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.AssemblyInfo.cs
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.CopyComplete
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\refint\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.pdb
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.genruntimeconfig.cache
+C:\Users\Davelo\Desktop\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\ref\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.exe
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.deps.json
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.runtimeconfig.json
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.pdb
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralClassLibrary.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralClassLibrary.pdb
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.AssemblyReference.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.GenerateResource.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.AssemblyInfoInputs.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.AssemblyInfo.cs
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.CopyComplete
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\refint\TaskCentralFormsApp.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.pdb
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.genruntimeconfig.cache
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\ref\TaskCentralFormsApp.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.exe
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.deps.json
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.runtimeconfig.json
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralFormsApp.pdb
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralClassLibrary.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\TaskCentralClassLibrary.pdb
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.AssemblyReference.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.LoginPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.GenerateResource.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.AssemblyInfoInputs.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.AssemblyInfo.cs
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.csproj.CopyComplete
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\refint\TaskCentralFormsApp.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.pdb
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.genruntimeconfig.cache
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\ref\TaskCentralFormsApp.dll
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.ProjectListPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.createProjectPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.editProjectPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.MembersPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.ProjectDashboard.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.TasksPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.addMemberForm.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.addTaskPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.editTaskPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.TaskCommentsPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.addCommentsPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.editCommentsPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.addCommentsPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.addMemberForm.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.addTaskPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.createProjectPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.editCommentsPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.editProjectPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.editTaskPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.LoginPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.MembersPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.ProjectDashboard.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.ProjectListPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.TaskCommentsPage.resources
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\obj\Debug\net6.0-windows\TaskCentralFormsApp.TasksPage.resources
+C:\Users\NIL\Desktop\uni\ADVANCED PROJECT\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Davelo\Desktop\New folder (8)\ADVProg\Project\TaskCentralFormsApp\TaskCentralFormsApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
